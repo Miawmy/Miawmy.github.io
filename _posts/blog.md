@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Hi blog!
 ---
 
 the first blog about the archive
